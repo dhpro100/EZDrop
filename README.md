@@ -21,6 +21,8 @@ In the `VIDEO` folder you will find **2 new folders**:
 + `23.06.20` - There will be 10 videos inside,
 + `23.06.25` - There will be 50 videos inside.
 
+You can choose a different date format when creating folders, for example `20.06.2023`
+
 ### Some more chips:
 + If any of the photos (or videos) you have already uploaded files before, then with the help of a smart, safety and fast algorithm, the files will not be copied again.
 + If the copying is interrupted for some reason right during the process, the broken files will be replaced when copying again.
@@ -45,3 +47,4 @@ It's quite simple, follow the instructions.<br />
 6. If the copying is interrupted for some reason right during the process, the broken files will be replaced when copying again.
 7. If any of the photos (or videos) you have already uploaded files before, then with the help of a smart, safety and fast algorithm, the files will not be copied again.
 8. The distribution of files into folders according to the type of files (photo or video), as well as the date of shooting (with your time zone).
+9. Choosing the date format when creating new folders
